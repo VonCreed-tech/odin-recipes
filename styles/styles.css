@@ -1,0 +1,54 @@
+html{
+    box-sizing: border-box;
+    background-image: url("../images/photo-1543353071-873f17a7a088.jpeg");
+
+}
+
+
+a{
+    color: rgb(0, 0, 0);
+    display: block;
+}
+
+img{
+    display: block;
+    margin: auto;
+    border: 1px solid rgb(5, 56, 73);
+}
+
+
+.text-container{
+    text-align: center;
+    background-color: lightblue;
+    padding: 30px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-style: dotted;
+    border-color: black;
+    
+}
+
+.recipe{
+    text-align: left;
+}
+
+.title{
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(1, 94, 89);
+    background-color: lightblue;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-style: dotted;
+    border-color: black;
+
+
+}
+
+.block{
+    padding: 5px;
+    display: block;
+    
+}
